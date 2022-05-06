@@ -282,8 +282,9 @@ a {
 .fin div {
     flex-basis: 50%;
 }
-.globe img{
-    width: 300px;
+.maps img{
+    height: 320px;
+    width: 100%;
     padding-top: 20px;
     padding-left: 245px;
     animation: .2s;
