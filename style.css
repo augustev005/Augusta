@@ -1,3 +1,4 @@
+/* police */
 @font-face {
     font-family: "Poppins";
     src: url(fonts/Poppins-Bold.ttf);
@@ -8,7 +9,7 @@ body {
     margin: 0;
     padding: 0;
 }
-
+/* images */
 .full-image {
     display: flex;
     position: fixed;
@@ -26,8 +27,10 @@ body {
     width: 150px;
     font-size: 1.5rem;
     background-color: gray;
-    padding: 20px 0;
+    padding: 20px 0;    
 }
+
+/* section de mon portfolio */
 
 .header-content {
     display: flex;
@@ -165,6 +168,7 @@ body {
     width: 10px;
     height: 15px;
 }
+/* pied de page */
 
 @keyframes tina {
     from {
